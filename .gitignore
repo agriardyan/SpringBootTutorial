@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+=======
+=======
+>>>>>>> f081b4f39b674cc6c2ea4f0377f14cadbdb856a5
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+<<<<<<< HEAD
+>>>>>>> f038e06fa8a4b07e7156a760c6af217f4d004d66
+=======
+>>>>>>> f081b4f39b674cc6c2ea4f0377f14cadbdb856a5
